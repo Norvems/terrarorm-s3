@@ -1,0 +1,10 @@
+.terraform/
+.terraform.lock.hcl
+terraform.tfstate
+terraform.tfstate.backup
+
+commit plików do gita
+git add .
+git commit -m "Initial commit"
+git remote add origin https://github.com/Norvems/terrarorm-s3.git
+git push -u origin master
