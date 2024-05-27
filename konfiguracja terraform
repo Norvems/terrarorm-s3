@@ -1,0 +1,6 @@
+cd terraform-s3-bucket
+terraform init
+terraform apply
+
+przesłanie do git-a
+git init
